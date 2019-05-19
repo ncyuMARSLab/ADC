@@ -7,8 +7,8 @@ It provides 2 different approach to implement ADC, "16tables" and "8+8tables".
 
 They are different from the input data.  
 
-For "16tables":  Query, codebook and clusterMember of the data, ground truth and candidate  
-For "8+8tables":  Query, codebook and clusterMember of both the data and the residual, ground truth and candidate  
+For "16tables":  Query, codebook and clusterMember of the data, ground truth and candidate.  
+For "8+8tables":  Query, codebook and clusterMember of both the data and the residual, ground truth and candidate.  
 Expect ground truth and candidate, "Query, codebook and clusterMember" are divided into 16 tables for "16" or 8 tables for "8+8".  
 
 Codebook records the centroid of clusters. 
