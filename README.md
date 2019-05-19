@@ -1,6 +1,6 @@
 ## Introduction ##
 This repository implements Asymmetric Distance Computation and computes the recall.  
-It works on Windows with Visual Studio C++ project.  
+It works on Windows with Visual Studio.  
 
 ## Input Data ##
 It provides 2 different approach to implement ADC, "16tables" and "8+8tables".  
