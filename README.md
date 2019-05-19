@@ -11,7 +11,7 @@ For "16tables":  Query, codebook and clusterMember of the data, ground truth and
 For "8+8tables":  Query, codebook and clusterMember of both the data and the residual, ground truth and candidate.  
 Expect ground truth and candidate, "Query, codebook and clusterMember" are divided into 16 tables for "16" or 8 tables for "8+8".  
 
-Codebook records the centroid of clusters. 
+Codebook records the centroid of clusters.  
 ClusterMember records the members that data belongs to the cluster.  
 The residual is the difference between data and its centroid.  
 
